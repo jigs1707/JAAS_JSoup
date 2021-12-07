@@ -1,0 +1,2 @@
+# JAAS_JSoup
+Project made to practice and understand the JAAS and JSoup packages in Java. Uses JAAS for the user authentication and the goal of the practice project being to allow the user to help in deciding what movie to watch by extracting data from IMDB of the top movies based on the movie genre the user selects, and allowing them to view the information page on IMDB of the movies they're interested in.
